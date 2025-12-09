@@ -2,7 +2,7 @@
 
 
 <br />
-I'm Joshua Barua, a passionate Full-Stack developer and a freelance software engineer from the UK/Australia, graduating with a degree in Information Technology from RMIT University and an exchange year in Leeds studying computing and film. 
+I'm Joshua Barua, a passionate Full-Stack developer from the UK/Australia, graduating with a degree in Information Technology from RMIT University and an exchange year in Leeds studying computing and film. 
 
 My passion as a developer begins with turning a simple idea into reality. Problem-solving, designing elegant solutions, and gaining knowledge through the act of "doing".
 
@@ -22,7 +22,4 @@ I'm a fan of the open-source community and learned a lot through it (I love the 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
